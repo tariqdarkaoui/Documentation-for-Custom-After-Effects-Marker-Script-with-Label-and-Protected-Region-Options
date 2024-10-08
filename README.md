@@ -1,5 +1,6 @@
 # Documentation-for-Custom-After-Effects-Marker-Script-with-Label-and-Protected-Region-Options
 ### Documentation for Custom After Effects Marker Script with Label and Protected Region Options
+![image](https://github.com/user-attachments/assets/af4dfeee-2025-415c-ae63-c85803c1a60e)
 
 ---
 
